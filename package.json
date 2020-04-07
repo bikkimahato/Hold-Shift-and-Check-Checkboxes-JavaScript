@@ -1,0 +1,23 @@
+{
+  "name": "hold-shift-and-check-checkboxes-javascript",
+  "version": "1.0.0",
+  "description": "When a user clicks a checkbox, holds Shift, and then clicks another checkbox a few rows down, all the checkboxes inbetween those two checkboxes should be checked.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikkimahato/Hold-Shift-and-Check-Checkboxes-JavaScript.git"
+  },
+  "author": "Bikki Mahato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikkimahato/Hold-Shift-and-Check-Checkboxes-JavaScript/issues"
+  },
+  "homepage": "https://github.com/bikkimahato/Hold-Shift-and-Check-Checkboxes-JavaScript#readme",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
